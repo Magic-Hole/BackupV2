@@ -99,4 +99,4 @@ v2.0 ⋮ 2023-19-05
 
 
 ### <a id="authors"></a>🕵️‍♂️ 〢 Authors
-- [Magic_Hole](https://github.com/Magic-Hole)
+- [Sans](https://github.com/Magic-Hole)
